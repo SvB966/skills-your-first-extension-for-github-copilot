@@ -63,3 +63,8 @@ In this exercise, you will:
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/your-first-extension-for-github-copilot) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+## Student Progress Website
+The `progress-web` folder contains a simple Express + SQLite app for tracking students, teachers, courses, and grades.
+It also provides a `grades.html` page that visualizes grades for each student using Chart.js.
+Run `npm test` inside that folder to execute a minimal API test.
